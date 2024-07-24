@@ -8,8 +8,8 @@
 - 😄 Pronouns: he/him.
 - 🦉🟢 I'm doing for the second time the Duolingo.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Bassani&show_icons=true&theme=yeblu)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Bassani&layout=compact&show_icons=true&theme=yeblu)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-bassani&show_icons=true&theme=yeblu)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-bassani&layout=compact&show_icons=true&theme=yeblu)
 
 <div style="display: inline_block"><br>
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/> 
