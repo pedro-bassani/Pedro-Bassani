@@ -7,7 +7,7 @@
 - 📫 How to reach me: Contact-me by my email pedrobassanihenrique@gmail.com or Discord: bascani
 - 😄 Pronouns: he/him.
 - 🦉🟢 I'm doing for the second time the Duolingo.
-- 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-bassani&layout=compact&show_icons=true&theme=yeblu)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-bassani&show_icons=true&theme=yeblu)
