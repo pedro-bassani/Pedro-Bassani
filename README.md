@@ -27,6 +27,6 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/768551695902310420/1265712049162293288/GIf.gif?ex=66a281b4&is=66a13034&hm=b034f41358083db0da086c67360345db0cdef237be1258ae7b2386c0e0f7a601&" alt="My character" width="500" height="500">
+  <img src="https://cdn.discordapp.com/attachments/768551695902310420/1265712049162293288/GIf.gif?ex=66a281b4&is=66a13034&hm=b034f41358083db0da086c67360345db0cdef237be1258ae7b2386c0e0f7a601&" alt="My character" width="200" height="200">
 
 </div>
