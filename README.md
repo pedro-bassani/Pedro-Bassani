@@ -6,7 +6,7 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me: Contact-me by my email pedrobassanihenrique@gmail.com or Discord: bascani
 - 😄 Pronouns: he/him.
-- 🦉🟢 I'm doing for the second time the Duolingo.
+- 🦉🟢 I'm doing for the second time Duolingo.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-bassani&layout=compact&show_icons=true&theme=yeblu)
 
