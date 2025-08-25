@@ -4,7 +4,7 @@
 - 🤔 Learning C language and how to use GITHUB.
 - 💁‍♂️ How can i improve my code skills?
 - 💬 Ask me about anything.
-- 📫 How to reach me: Contact-me by my email pedrobassanihenrique@gmail.com or Discord: bascani
+- 📫 How to reach me: Contact-me by my email pedrobassanihenrique@gmail.com 
 - 😄 Pronouns: he/him.
 - 🦉🟢 I'm doing for the second time Duolingo.
 
@@ -19,10 +19,10 @@
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"> 
   <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+  <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
           
           
-          
-          
+                   
 </div>
 
 ## 
