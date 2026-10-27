@@ -1,6 +1,5 @@
 ## Hi, I am Pedro Henrique Bassani!!
 
-- 💼 Working on SAP as SAP iXP Intern - Technical Support Commerce Cloud .
 - 🤔 Learning C language and how to use GITHUB.
 - 💁‍♂️ How can i improve my code skills?
 - 💬 Ask me about anything.
